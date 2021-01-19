@@ -8,6 +8,7 @@ O objetivo do projeto de Data Engineering é coletar e organizar dados.
 
 ## Dados utilizados: 
 Os dados para serem coletados e armazenados, estão disponíveis neste site.
+
 http://books.toscrape.com/
 
 ## Contexto do projeto: 
